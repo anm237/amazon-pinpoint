@@ -53,6 +53,28 @@
     4. Once the email address is verified, we are ready to send an email messages.
 
         <img src="images/image7.png" class="inline"/> 
+    
+    5. Select Test Messaging from the menu bar on the left hand and choose the Email channel.
+
+        <img src="images/image8.png" class="inline"/> 
+        
+        <img src="images/image9.png" class="inline"/>
+    
+    6. Provide recipient email address that we verified for Destination type Email address as the recipient and it can be the same as the sender address, or additional email identities that we have verified
+    
+        <img src="images/image10.png" class="inline"/>
+        
+    7.  Choose Create a new message and provide details like Email Subject and Message body
+    
+        <img src="images/image11.png" class="inline"/>
+    
+    8. Select the Send message button and check the inbox.
+
+        <img src="images/image12.png" class="inline"/>
+        
+        <img src="images/image13.png" class="inline"/>
+
+
 
 
 - **Step 3: Configure & Send SMS message**
