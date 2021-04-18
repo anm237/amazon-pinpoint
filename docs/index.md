@@ -7,12 +7,16 @@
 - Amazon Pinpoint allows to send customer oriented messages with better experiences which strengths the association with the customers and reduce the agitate.
 
 - Amazon Pinpoint provides functionalities such as:
+    
     - Marketing campaigns and journeys
+   
     - Transactional messages
+    
     - Analytics tools
+    
     - Generate predictions
 
-- In this tutorial we will focus on first creating a Pinpoint project and then configuring an email and a SMS based notification to send personalized messages
+- In this tutorial we will focus on first creating a Pinpoint project and then configuring an email based notification to send personalized messages
 
 - **Step 1: Create an Amazon Pinpoint project**
   
