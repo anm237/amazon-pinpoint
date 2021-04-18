@@ -45,18 +45,14 @@
         **Verification email**
         
         <img src="images/image5.png" class="inline"/> 
-        
-        **Post verification**
-        
-        <img src="images/image6.png" class="inline"/> 
      
-    3. Return to the Set up email page of the Amazon Pinpoint console. Your email address shows as verified. Click the Save button.
+    3. Return to the Set up email page of the Amazon Pinpoint console. The email address shows as verified
+        
+        <img src="images/image6.png" class="inline"/>
 
-    4. Your email address is now verified. You are ready to send email messages.
+    4. Once the email address is verified, we are ready to send an email messages.
 
-
-     
-        <img src="images/image3.png" class="inline"/> 
+        <img src="images/image7.png" class="inline"/> 
 
 
 - **Step 3: Configure & Send SMS message**
