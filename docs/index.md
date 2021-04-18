@@ -18,9 +18,10 @@
 - **Step 1: Create an Amazon Pinpoint project**
   
   - A project in Amazon Pinpoint is a batch of configurations, customer information, segments, and campaigns
+  
   - Follow the below steps to deploy project in Amazon Pinpoint
     
-    1. Traverse to the <a href="https://console.aws.amazon.com/pinpoint/">Amazon Kendra console</a> 
+    1. Traverse to the <a href="https://console.aws.amazon.com/pinpoint/">Amazon Pinpoint console</a> 
 
         <img src="images/image1.png" class="inline"/> 
            
@@ -54,27 +55,64 @@
 
         <img src="images/image7.png" class="inline"/> 
     
-    5. Select Test Messaging from the menu bar on the left hand and choose the Email channel.
+    5. Select Test Messaging from the menu bar on the left hand
 
         <img src="images/image8.png" class="inline"/> 
-        
+    
+    6. Choose the Email channel
+    
         <img src="images/image9.png" class="inline"/>
     
-    6. Provide recipient email address that we verified for Destination type Email address as the recipient and it can be the same as the sender address, or additional email identities that we have verified
+    7. Provide recipient email address that we verified for Destination type Email address as the recipient and it can be the same as the sender address, or additional email identities that we have verified
     
         <img src="images/image10.png" class="inline"/>
         
-    7.  Choose Create a new message and provide details like Email Subject and Message body
+    8.  Choose Create a new message and provide details like Email Subject and Message body
     
         <img src="images/image11.png" class="inline"/>
     
-    8. Select the Send message button and check the inbox.
+    9. Select the Send message button
 
         <img src="images/image12.png" class="inline"/>
+    
+    10. Check the inbox
         
         <img src="images/image13.png" class="inline"/>
 
+- **Step 3: Create a Message Template for SMS**
+ 
+  - Message templates is a method to define consistent messages and reuse content more effectively, even across the projects. We can define message templates for email messages, push notifications, SMS messages, and voice messages.
+
+  - Follow the below steps to define a message template
+    
+    1. Traverse to the <a href="https://console.aws.amazon.com/pinpoint/">Amazon Pinpoint console</a> then Message templates
+
+        <img src="images/image14.png" class="inline"/> 
+           
+    2. Select Create a template
+     
+        <img src="images/image15.png" class="inline"/> 
+     
+    3. Select Email for the channel.
+     
+        <img src="images/image16.png" class="inline"/> 
+     
+    4. Provide name for the new template where as Description is an optional 
+     
+        <img src="images/image17.png" class="inline"/> 
+    
+    5. Next provide subject and message body
+     
+        **Email Subject**
+          
+          <img src="images/image18.png" class="inline"/>
+        
+        **Message body**
+
+          <img src="images/image19.png" class="inline"/>
+     
+    6. Select Create to save the message template
+      
+        <img src="images/image20.png" class="inline"/>
 
 
-
-- **Step 3: Configure & Send SMS message**
